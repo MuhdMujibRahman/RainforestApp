@@ -3,6 +3,7 @@ Rainforest App assesement
 
 For this application, the stack that I am using is Django, Docker and PostgresSQL
 
+*Docker = 20.10.10*
 
 The goal is to create an API as per below:
  
@@ -37,16 +38,18 @@ Step 1
 docker-compose build
 
 ```
+<img src = "image/Screenshot%202021-11-26%20223410.png">
 
 Step 2
 ```
-docker-compose build
+docker-compose up
 
 ```
-Step 3
-```
-docker-compose build
+<img src = "image/Screenshot%202021-11-26%20223454.png" >
 
-```
 
+Once done with *Step 2* the application is up and ready to be use locally.
+
+For further info on API specification please refer the link below:
+https://documenter.getpostman.com/view/10701397/UVJbHdFy
 
