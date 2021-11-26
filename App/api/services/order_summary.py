@@ -12,7 +12,7 @@ class OrderSummary:
 
     def get_created_orders(self):
 
-        url = "http://127.0.0.1:8000/star-wars/Products/Order"
+        url = "http://127.0.0.1:8000/rainforestApp/Products/Order"
 
         payload = {}
         headers = {}

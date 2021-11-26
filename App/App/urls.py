@@ -17,5 +17,5 @@ from django.contrib import admin
 from django.urls import path, include
 
 urlpatterns = [
-   path('star-wars/', include('api.urls')),
+   path('rainforestApp/', include('api.urls')),
 ]

@@ -11,7 +11,7 @@ class UpdateOrder:
     def update_table(self):
         # Making a PUT request
 
-        url = "http://127.0.0.1:8000/star-wars/Products/ByName"
+        url = "http://127.0.0.1:8000/rainforestApp/Products/ByName"
 
         payload = json.dumps({
             'name': self.name,
