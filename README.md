@@ -1,5 +1,5 @@
 # RainforestApp
-Rainforest App assesement
+Rainforest App assesment
 
 For this application, the stack that I am using is Django, Docker and PostgresSQL
 
